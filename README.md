@@ -1,6 +1,6 @@
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 <h1 align="center">Hi 👋, I'm Rohit Kumar Singh</h1>
 <h3 align="center">👨‍💻 I specialize in technologies like Java, Spring Boot, HTML, CSS, JavaScript, ReactJS, MySQL and Dockers. Web Developer enthusiast by day,Coding nerd by night. 💻 Passionate about continuous learning and self-improvement. When I'm not coding, you'll find me sketching.🏋️‍♂ Let's connect and collaborate together! 💰 📫 Feel free to reach out to me for tech discussions or just a friendly chat. Let's code our way to success!</h3>
-<img align="center" alt="Coding" height="300" width="650" src="https://4kwallpapers.com/images/walls/thumbs_2t/5947.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsingh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsingh-dev" /> </p>
 
