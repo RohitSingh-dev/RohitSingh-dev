@@ -20,14 +20,14 @@
 
 - 📫 How to reach me **rohitsingh20082002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17etA6hDPxXmd-ffuIU73yYCI3oeC3UA3/view?usp=drive_link](https://drive.google.com/file/d/17etA6hDPxXmd-ffuIU73yYCI3oeC3UA3/view?usp=drive_link)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1rB502xK5Qu7gbFlwG0ORDFd-GW279SU9/view?usp=drive_link)
 
 - ⚡ Fun fact **Anime inspires me to code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohit_singh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_singh2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-kumar-singh-b15411240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-kumar-singh-b15411240/" height="30" width="40" /></a>
+<a href="https://x.com/not_a_zenin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_a_zenin" height="30" width="40" /></a>
+<a href="linkedin.com/in/rohitsingh-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rohitsingh-dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/rohitsingh_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rohitsingh_dev/" height="30" width="40" /></a>
 </p>
 
