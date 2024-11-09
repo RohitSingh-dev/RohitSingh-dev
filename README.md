@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsingh-dev" alt="rohitsingh-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rohit_singh2002" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_singh2002?logo=twitter&style=for-the-badge" alt="rohit_singh2002" /></a> </p>
+<p align="left"> <a href="linkedin.com/in/rohitsingh-dev" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_singh2002?logo=twitter&style=for-the-badge" alt="rohit_singh2002" /></a> </p>
 
-- 🔭 I’m currently working on **Social Media Platform**
+- 🔭 I’m currently working at **EBest Solutions Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Microservices, Spring Cloud, Kubernetes**
+- 🌱 I’m currently learning **Next.js, Microservices, AWS**
 
 - 👨‍💻 All of my projects are available at [https://rohit-dev.netlify.app/](https://rohit-dev.netlify.app/)
 
-- 📝 I regularly write articles on [Java, React](Java, React)
+- 📝 I regularly write articles on Java, React JS
 
 - 💬 Ask me about **Java, Spring Boot, React, APIs**
 
