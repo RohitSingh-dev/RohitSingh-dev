@@ -1,12 +1,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 <h1 align="center">Hi 👋, I'm Rohit Kumar Singh</h1>
-<h3 align="center">👨‍💻 I specialize in technologies like Java, Spring Boot, HTML, CSS, JavaScript, ReactJS, MySQL and Dockers. Web Developer enthusiast by day,Coding nerd by night. 💻 Passionate about continuous learning and self-improvement. When I'm not coding, you'll find me sketching.🏋️‍♂ Let's connect and collaborate together! 💰 📫 Feel free to reach out to me for tech discussions or just a friendly chat. Let's code our way to success!</h3>
+<h3 align="center">👨‍💻 I specialize in technologies like Java, Spring Boot, HTML, CSS, JavaScript, ReactJS, Next.js, MySQL, PostgreSQL and Dockers. Web Developer enthusiast by day,Coding nerd by night. 💻 Passionate about continuous learning and self-improvement. When I'm not coding, you'll find me sketching.👨‍🎨 Let's connect and collaborate together! 💰 📫 Feel free to reach out to me for tech discussions or just a friendly chat. Let's code our way to success!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsingh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsingh-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsingh-dev" alt="rohitsingh-dev" /></a> </p>
 
-<p align="left"> <a href="linkedin.com/in/rohitsingh-dev" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_singh2002?logo=twitter&style=for-the-badge" alt="rohit_singh2002" /></a> </p>
+<p align="left"> <a href="linkedin.com/in/rohitsingh-dev"><img src="https://img.shields.io/linkedin/follow/rohitsingh-dev?logo=linkedin&style=for-the-badge" alt="rohitsingh-dev" /></a> </p>
 
 - 🔭 I’m currently working at **EBest Solutions Pvt. Ltd.**
 
@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://x.com/not_a_zenin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_a_zenin" height="30" width="40" /></a>
 <a href="linkedin.com/in/rohitsingh-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rohitsingh-dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rohitsingh_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rohitsingh_dev/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rohitsingh_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rohitsingh_dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
