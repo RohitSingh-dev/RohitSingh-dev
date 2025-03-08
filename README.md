@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsingh-dev" alt="rohitsingh-dev" /></a> </p>
 
 
-- 🔭 I’m currently working at **EBest Solutions Pvt. Ltd.**
+- 🔭 I’m currently working at **Tech Mahindra**
 
 - 🌱 I’m currently learning **Next.js, Microservices, AWS**
 
