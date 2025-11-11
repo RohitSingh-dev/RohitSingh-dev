@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rohitsingh20082002@gmail.com**
 
-- 📄 Know about my experiences [Download Resume]([https://drive.google.com/file/d/1rB502xK5Qu7gbFlwG0ORDFd-GW279SU9/view?usp=drive_link](https://drive.google.com/file/d/1YM9sMxPoftNF-B1HTAWC5y9mHmWcmHxe/view?usp=sharing))
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1YM9sMxPoftNF-B1HTAWC5y9mHmWcmHxe/view?usp=drive_link)
 
 - ⚡ Fun fact **Anime inspires me to code.**
 
