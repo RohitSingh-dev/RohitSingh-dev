@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js, Microservices, AWS**
 
-- 👨‍💻 All of my projects are available at [https://rohit-dev.netlify.app/](https://rohit-dev.netlify.app/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://rohitsingh-dev.vercel.app/)
 
 - 📝 I regularly write articles on Java, React JS
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rohitsingh20082002@gmail.com**
 
-- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1rB502xK5Qu7gbFlwG0ORDFd-GW279SU9/view?usp=drive_link)
+- 📄 Know about my experiences [Download Resume]([https://drive.google.com/file/d/1rB502xK5Qu7gbFlwG0ORDFd-GW279SU9/view?usp=drive_link](https://drive.google.com/file/d/1YM9sMxPoftNF-B1HTAWC5y9mHmWcmHxe/view?usp=sharing))
 
 - ⚡ Fun fact **Anime inspires me to code.**
 
